@@ -1,0 +1,6 @@
+discord.py[voice]>=1.7.3
+Pillow
+numpy
+requests
+pandas
+hashids
